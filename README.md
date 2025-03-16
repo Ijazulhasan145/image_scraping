@@ -47,3 +47,43 @@ PyTorch 🔥 – Deep learning model training
 ResNet50 🏗️ – CNN architecture for classification
 
 Google Earth 🛰️ – Real-time satellite imagery source
+
+🛠️ How It Works?
+
+🌍 Step 1: Real-Time Satellite Image Scraping
+
+✅ Uses GPS coordinates to automate Google Earth navigation.
+
+✅ Extracts high-resolution images and stores them locally.
+
+✅ Supports custom regions by modifying the coordinate grid.
+
+🧠 Step 2: AI-Based Land Classification
+
+✅ Pretrained ResNet-based CNN model for feature extraction.
+
+✅ Classifies land into five major categories with percentage breakdown.
+
+✅ Supports real-time predictions for integration into web applications.
+
+📌 Applications
+
+🚜 Agriculture Monitoring – Detect and analyze crop health.
+
+🏙️ Urban Planning – Assess land use in developing regions.
+
+🌊 Water Resource Management – Identify water bodies & drought-prone areas.
+
+🌍 Disaster Response – Map affected areas in real time.
+
+🔗 Future Enhancements
+
+✅ Integrate Google Earth Engine for more accurate data retrieval
+
+✅ Optimize AI model for faster real-time classification
+
+✅ Develop a web-based interface for interactive land analysis
+
+
+
+
